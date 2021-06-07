@@ -1,0 +1,43 @@
+.copy
+{
+    float:left;
+    position: fixed;
+    bottom:2%;
+    left:0.2%;
+    z-index: 1;
+}
+
+.head_line
+
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    font-weight: 1000;
+
+	color: #ff0000;
+    text-transform: uppercase;
+    font-size:60px;
+	text-shadow: 2px 2px white, 3px 3px rgb(0, 0, 0);
+    
+}
+
+
+.form_control input
+{
+    border: 1px black solid;
+}
+
+
+.bg-dark
+{
+    background-color: rgb(9, 107, 97) !important;
+}
+.box-shadow_form
+{
+    box-shadow: black;
+}
+table
+{
+    border: black 1px solid;
+}
+
+
